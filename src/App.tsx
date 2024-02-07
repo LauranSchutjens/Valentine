@@ -43,14 +43,14 @@ function App() {
     <div className="valentine-container">
       {yesPressed ? (
         <>
-          <img alt="meganAndMe" src="https://pouch.jumpshare.com/preview/x1EZJ3F0Kl-I4OfKFolFBv0fawtVlIB8iyw0DJiPRlMV8avuL8QiuUigY27kUiwpWvYOc7NjXdhQaryPbeWhT9wYy0TKrm7757rYlNgA_hw" />
+          <img alt="MeganAndMe" src="https://media.tenor.com/dVMwRYiAGsAAAAAi/kiss.gif" />
           <div className="text">
             Yay!🤍 (u better have pressed yes the first time...)
           </div>
         </>
       ) : (
         <>
-          <img alt="meganAndMe2" src="https://pouch.jumpshare.com/preview/Kb4nEftPGG-PChhNIWLRZ2ajSJ9QbW5W4Cb1RTBY3BYxvyPAgO0j3y1bzlMxu954WvYOc7NjXdhQaryPbeWhT9wYy0TKrm7757rYlNgA_hw" />
+          <img alt="DuckHeart" src="https://media.tenor.com/IUg0mH86m48AAAAi/duck.gif" />
 
           <div className="question">
             Hi Megan, will you be my valentine?
