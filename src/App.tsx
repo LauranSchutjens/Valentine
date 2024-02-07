@@ -43,7 +43,7 @@ function App() {
     <div className="valentine-container">
       {yesPressed ? (
         <>
-          <img alt="meganAndMe" src="https://pouch.jumpshare.com/preview/x1EZJ3F0Kl-I4OfKFolFBv0fawtVlIB8iyw0DJiPRlMV8avuL8QiuUigY27kUiwpzltI8nQqBBdqSsc46X9G7xAXAa6gslH56XvCCV9vTEk" />
+          <img alt="meganAndMe" src="https://pouch.jumpshare.com/preview/x1EZJ3F0Kl-I4OfKFolFBv0fawtVlIB8iyw0DJiPRlMV8avuL8QiuUigY27kUiwpWvYOc7NjXdhQaryPbeWhT9wYy0TKrm7757rYlNgA_hw" />
           <div className="text">
             Yay!🤍 (u better have pressed yes the first time...)
           </div>
