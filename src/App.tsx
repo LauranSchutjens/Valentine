@@ -50,7 +50,7 @@ function App() {
         </>
       ) : (
         <>
-          <img alt="meganAndMe2" src="src\pic\Quack.gif" />
+          <img alt="meganAndMe2" src="https://pouch.jumpshare.com/preview/Kb4nEftPGG-PChhNIWLRZ2ajSJ9QbW5W4Cb1RTBY3BYxvyPAgO0j3y1bzlMxu954zltI8nQqBBdqSsc46X9G70LHCAWXX2GKIOu6kvtTSXg" />
 
           <div className="question">
             Hi Megan, will you be my valentine?
