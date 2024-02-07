@@ -50,7 +50,7 @@ function App() {
         </>
       ) : (
         <>
-          <img alt="meganAndMe2" src="https://pouch.jumpshare.com/preview/Kb4nEftPGG-PChhNIWLRZ2ajSJ9QbW5W4Cb1RTBY3BYxvyPAgO0j3y1bzlMxu954zltI8nQqBBdqSsc46X9G70LHCAWXX2GKIOu6kvtTSXg" />
+          <img alt="meganAndMe2" src="https://pouch.jumpshare.com/preview/Kb4nEftPGG-PChhNIWLRZ2ajSJ9QbW5W4Cb1RTBY3BYxvyPAgO0j3y1bzlMxu954WvYOc7NjXdhQaryPbeWhT9wYy0TKrm7757rYlNgA_hw" />
 
           <div className="question">
             Hi Megan, will you be my valentine?
